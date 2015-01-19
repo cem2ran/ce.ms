@@ -1,0 +1,17 @@
+{
+  "name": "ce.ms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production start index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0",
+    "express-enrouten": "^1.2.0",
+    "ghost": "^0.5.8"
+  }
+}
