@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.11.0",
-    "express-enrouten": "^1.2.0",
+    "express-enrouten": "git+https://github.com/krakenjs/express-enrouten#af8837810a41ad25b668451e543f4e2d8f46f44f",
     "ghost": "^0.5.8"
   }
 }
