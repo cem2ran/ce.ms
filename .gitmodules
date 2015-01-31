@@ -1,0 +1,4 @@
+[submodule "content/routes/requirebin/.static"]
+	path = content/routes/requirebin/.static
+	url = https://github.com/cem2ran/requirebin.git
+	branch = ce.ms
